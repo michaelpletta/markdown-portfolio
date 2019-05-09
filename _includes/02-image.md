@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Found this awesome Octocat online!](https://res.cloudinary.com/practicaldev/image/fetch/s--1FboU0lX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6iv7b9d2a6r9gphjacyj.png)
